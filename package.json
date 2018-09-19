@@ -1,0 +1,24 @@
+{
+  "name": "imageshack-images-downloader",
+  "version": "1.0.0",
+  "description": "Downloads all your images from ImageShack",
+  "main": "get_image_urls.js",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "puppeteer": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thijskuilman/imageshack-images-downloader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thijskuilman/imageshack-images-downloader/issues"
+  },
+  "homepage": "https://github.com/thijskuilman/imageshack-images-downloader#readme"
+}

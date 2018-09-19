@@ -21,7 +21,7 @@ for url in urls:
 	else:
 		processed.append(filename);
 
-	with open('/home/thijs/Projects/imageshack-scraper/images/' + filename, 'wb') as f:  
+	with open('images/' + filename, 'wb') as f:  
 	    f.write(datatowrite)
 
 	processedCount += 1;

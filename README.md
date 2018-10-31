@@ -19,4 +19,6 @@ $ python imageshack_downloader.py
 ## How it works
 Unfortunately, the ImageShack API is not available anymore, so I used Puppeteer (a headless Chrome Node API) to scrape the image URL's from your ImageShack account. After that, a Python script will download all the images to the /images folder.
 
-![screenshot from 2018-09-19 16-45-44](https://user-images.githubusercontent.com/3017676/45761742-1e239a00-bc2d-11e8-838d-95dcf67a2a75.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/3017676/45761742-1e239a00-bc2d-11e8-838d-95dcf67a2a75.png">
+</p>

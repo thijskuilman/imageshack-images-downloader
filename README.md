@@ -1,4 +1,7 @@
-![imageshack-logo-download](https://user-images.githubusercontent.com/3017676/45779894-98b7de00-bc5c-11e8-998f-35161a2206bf.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/3017676/45779894-98b7de00-bc5c-11e8-998f-35161a2206bf.png">
+</p>
+
 
 # ImageShack downloader
 Perhaps you have used ImageShack in the past, just like me. ImageShack made some strange moves in the past few years, including removing your uploaded images. I created this tool so you can download your images and move it to a better hosting service.

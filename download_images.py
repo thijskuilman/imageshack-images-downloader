@@ -1,9 +1,9 @@
-import urllib2
+import urllib.request as urllib2
 from time import sleep
 import random
 
 with open('image_links.txt', 'r') as image_links:
-    urls = image_links.read().split(",")
+    urls = image_links.read().split("\n")
 
 processed = []
 urlsCount = len(urls)

@@ -39,7 +39,7 @@ async function main() {
 		directLinks = directLinks.concat(extraLinks);
 
 		// Write links to file
-		fs.writeFileSync('./image_links.txt', directLinks);
+		fs.writeFileSync('./image_links.txt', directLinks.join('\n'));
 
 		console.log("Retrieving your image URLS.. " +  Math.round(currentPage / totalPages * 100)  + "%");
 	}

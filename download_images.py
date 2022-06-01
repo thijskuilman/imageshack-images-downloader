@@ -12,7 +12,6 @@ processedCount = 0;
 for url in urls:
 
 	filename = url.split('/')[-1];
-	print(url)
 	filedata = urllib2.urlopen(url);
 	datatowrite = filedata.read();
 

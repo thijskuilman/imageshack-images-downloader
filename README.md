@@ -4,7 +4,7 @@
 
 
 # ImageShack downloader
-Perhaps you have used ImageShack in the past, just like me. ImageShack made some strange moves in the past few years, including removing your uploaded images. I created this tool so you can download your images and move it to a better hosting service.
+Perhaps you have used ImageShack in the past, just like me. ImageShack made some strange moves in the past few years, including removing your uploaded images. I created this tool so you can download your images and move it to a another image hosting service.
 
 ## Requirements
 You'll need Python and Node (at least v6.4.0) to run this tool.
